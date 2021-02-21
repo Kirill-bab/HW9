@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimesWebService", "PrimesWebService\PrimesWebService.csproj", "{D3499025-6798-4D33-B2D8-1D5B25594ED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService_Tests", "WebService_Tests\WebService_Tests.csproj", "{E02EAE71-38F7-4683-9205-5DFFE482F079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3499025-6798-4D33-B2D8-1D5B25594ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3499025-6798-4D33-B2D8-1D5B25594ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3499025-6798-4D33-B2D8-1D5B25594ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3499025-6798-4D33-B2D8-1D5B25594ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E02EAE71-38F7-4683-9205-5DFFE482F079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02EAE71-38F7-4683-9205-5DFFE482F079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02EAE71-38F7-4683-9205-5DFFE482F079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02EAE71-38F7-4683-9205-5DFFE482F079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0998C2DF-AE83-4EC1-AF1A-9ACBA15582D5}
+	EndGlobalSection
+EndGlobal
